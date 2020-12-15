@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+
+  padding: 100px 0;
+  font-family: sans-serif;
+
+}
+
+.user-card {
+  margin-bottom: 50px;
+  padding: 0 10px;
+  text-align: center;
+  font-size: 14px;
+}
+
+.icon {
+  margin-bottom: 20px;
+}
+
+.header {
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #2d3033;
+}
+
+.text {
+color: #6c7279;
+}
